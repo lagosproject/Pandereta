@@ -1,0 +1,13 @@
+## Local Properties Template
+# Copy this file to 'local.properties' and fill in your local system configuration.
+# Do NOT commit 'local.properties' to git.
+
+# Location of the Android SDK on your local machine
+# On Windows, escape backslashes: C\:\\Users\\<YourUsername>\\AppData\\Local\\Android\\Sdk
+sdk.dir=<PATH_TO_YOUR_ANDROID_SDK>
+
+# Keystore configuration for signing release builds (Optional)
+# release.keystore.path=keystores/release.jks
+# release.keystore.password=<YOUR_KEYSTORE_PASSWORD_HERE>
+# release.key.alias=<YOUR_KEY_ALIAS_HERE>
+# release.key.password=<YOUR_KEY_PASSWORD_HERE>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tambourine</string>
+    <string name="instructions">Shake the phone or tap the tambourine</string>
+</resources>
