@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Pandereta Logo" width="160" height="160" style="border-radius: 20%;" />
+  <img src="assets/logo.png" alt="Pandereta Logo" width="160" height="160" style="border-radius: 20%;" /><br>
+  <a href="https://play.google.com/store/apps/details?id=appinventor.ai_grmapal2.pandereta">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="50" />
+  </a>
 </p>
 
 # Pandereta (Tambourine App)
