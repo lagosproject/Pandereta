@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Pandereta Logo" width="160" height="160" style="border-radius: 20%;" />
+</p>
+
 # Pandereta (Tambourine App)
 
 [![Android CI](https://github.com/yourusername/Pandereta/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/Pandereta/actions/workflows/ci.yml)
