@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "appinventor.ai_grmapal2.pandereta"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "appinventor.ai_grmapal2.pandereta"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 6
         versionName = "6.0"
 
